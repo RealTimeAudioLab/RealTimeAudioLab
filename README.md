@@ -1,6 +1,6 @@
 # Welcome to RealTimeAudioLab
 
-## Here are a few impressions of the RTAL Studio, featuring the development projects published in the repositories below, mounted in the rack.
+## Here are a few impressions of the RTAL Studio, featuring the development projects published in the repositories below, mounted in the racks.
 
 <p align="leftr">  
 <img src="images/RTAL_Studio_1.jpg" width="900">
