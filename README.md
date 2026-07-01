@@ -1,6 +1,6 @@
 # Welcome to RealTimeAudioLab
 
-## Here are a few impressions of the RTAL Studio 2009, featuring the development projects published in the repositories below, mounted in the racks.
+## These photographs offer a glimpse into the RTAL Studio as it appeared in 2009. Many of the engineering projects documented in the repositories below were developed, tested and used in this studio, where they formed part of the daily production environment.
 
 <p align="leftr">  
 <img src="images/RTAL_Studio_1a.jpg" width="900">
