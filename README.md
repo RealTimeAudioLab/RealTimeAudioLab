@@ -9,4 +9,5 @@
 </p>
 <img src="images/RTAL_Studio_3a.jpg" width="900">
 </p>
-
+<img src="images/RTAL_Studio_4.jpg" width="900">
+</p>
